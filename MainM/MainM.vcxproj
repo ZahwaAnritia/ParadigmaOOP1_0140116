@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{798c344d-15a8-49d3-8c58-3ae368f61938}</ProjectGuid>
-    <RootNamespace>PemDasRelasi</RootNamespace>
+    <ProjectGuid>{881210ea-75d9-41a3-82cb-74bd39e7ed85}</ProjectGuid>
+    <RootNamespace>MainM</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,11 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="PemDas_Relasi.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Jantung.h" />
-    <ClInclude Include="Manusia.h" />
+    <ClCompile Include="MainM.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

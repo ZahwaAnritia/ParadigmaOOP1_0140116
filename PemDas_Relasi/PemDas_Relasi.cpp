@@ -2,9 +2,8 @@
 #include <string>
 using namespace std;
 
-class mahasiswa {
+#include "jantung.h"
 
-};
 
 
 int main()

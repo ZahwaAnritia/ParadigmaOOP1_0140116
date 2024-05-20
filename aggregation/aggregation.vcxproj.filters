@@ -15,15 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PemDas_Relasi.cpp">
+    <ClCompile Include="aggregation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Jantung.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Manusia.h">
+    <ClInclude Include="Anak.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
